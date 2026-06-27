@@ -741,4 +741,4 @@ This project is a machine learning based pricing decision-support system.
 
 The output should be reviewed with business context, trade plans, pack strategy, competitor actions, retailer margin requirements, and brand objectives before final pricing decisions are made.
 
-The model does not guarantee actual sales lift or profitability. It estimates a statistically supported ASP recommendation based on historical market behavior.
+The model does not guarantee actual sales lift or profitability. It estimates a statistically supported ASP recommendation based on historical market behavior.# munch_pricing_ml
