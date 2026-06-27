@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Optional: ignore large/private data files
+data/raw/
+*.xlsx
+*.xls
+
+# Optional: ignore trained models if large
+models/*.pkl
